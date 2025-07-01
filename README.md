@@ -46,7 +46,7 @@ Meu objetivo é <em>proteger sistemas, automatizar segurança e criar soluções
 <h2 align="center">💻 Tecnologias & Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,nmap,neovim,vim,debian,c,cassandra&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,nmap,neovim,vim,debian,c,cassandra&perline=11" />
 </p>
 
 ---
@@ -57,6 +57,15 @@ Meu objetivo é <em>proteger sistemas, automatizar segurança e criar soluções
   <a href="https://github.com/kravuhas/find_subdomain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kravuhas&repo=find_subdomain&title_color=00ff00&text_color=ffffff&border_color=00ff00&bg_color=111111&icon_color=00ff00&description_lines_count=3"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kravuhas&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=00FF00&ring=00FF3C&fire=00FF3C&sideNums=FFFFFF&currStreakNum=EBEBEB&currStreakLabel=00FF3C&dates=0000007C&background=45%2C006200%2C00FF3C"/>
+</p>
+
+<p align="center">
+  <img height=170 src="https://github-readme-stats.vercel.app/api?username=kravuhas&custom_title=Github%20Status%20-%20Felipe&show=prs_merged&show_icons=true&locale=pt-br&title_color=00FF3C&text_color=fffffa&icon_color=003800&ring_color=00FF3C&border_color=00FF00&bg_color=35,006200,00FF3C&line_height=30&number_format=long&rank_icon=github"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravuhas&langs_count=6&title_color=00FF3C&text_color=fffffa&border_color=00FF00&bg_color=35,006200,00FF3C&locale=pt-br&card_width=320&layout=compact&size_weight=0.1&count_weight=0.1"/>
 </p>
 
 ---
@@ -75,4 +84,3 @@ Meu objetivo é <em>proteger sistemas, automatizar segurança e criar soluções
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="500px" alt="Mão digitando teclado verde" />
 </p>
-
