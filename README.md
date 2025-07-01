@@ -1,43 +1,36 @@
 👾 Sobre Felipe — Hacker Ético Fora da Caixa
 “Quebrar sistemas não é crime quando é para proteger o futuro.
-Meu propósito é desvendar as falhas, fortalecer as defesas e evoluir na arte do hacking com ética e respeito.”
+Meu propósito é desvendar falhas, fortalecer defesas e evoluir na arte do hacking com ética e respeito.”
 
 🛡️ Quem sou eu?
+💻 Especialista em segurança ofensiva, focado em proteger o mundo digital
 
-Especialista em segurança ofensiva, focado em proteger o mundo digital.
+🎓 Certificado pelo Google em fundamentos de Ethical Hacking
 
-Certificado pelo Google em fundamentos de Ethical Hacking.
+🕵️‍♂️ Explorador constante nas plataformas TryHackMe e PortSwigger
 
-Explorador constante das plataformas TryHackMe e PortSwigger, sempre ampliando meus limites.
+🐍 Programador Python apaixonado por automação e ferramentas de segurança
 
-Programador Python apaixonado, transformando linhas de código em ferramentas poderosas.
+🐧 Usuário avançado de Debian e Arch Linux, moldando meu próprio ambiente hacker
 
-Usuário avançado de Debian e Arch Linux, moldando meu próprio ambiente para dominar a segurança.
+⚙️ Meu arsenal hacker
+🐍 Python — automação e scripts avançados
 
-⚙️ Minha essência hacker:
+🛠️ Ferramentas: Wireshark, Burp Suite, Nmap, Metasploit, SQLMap, Hydra
 
-Sou diferente porque não busco o caos — busco o conhecimento.
-Minha missão é ser a linha invisível entre ataque e defesa, sendo o escudo que poucos veem.
-Cada desafio é uma porta para aprender, crescer e proteger.
+🖥️ Administração e customização Linux — Debian & Arch
 
-🚀 Ferramentas e habilidades que fazem meu arsenal:
+🔐 Pentest completo e análise de vulnerabilidades
 
-Automação e scripts avançados em Python.
+🌐 Conecte-se comigo
+🔗 GitHub: @seu-usuario
 
-Análise de tráfego e vulnerabilidades com Wireshark, Burp Suite e Nmap.
+🌐 TryHackMe: seu-nickname
 
-Pentest completo com ferramentas como Metasploit, SQLMap e Hydra.
+🕸️ PortSwigger: seu-nickname
 
-Manutenção e customização profunda do Linux — Debian e Arch são meu habitat natural.
+💬 Discord: seuUser#1234
 
-🌐 Conecte-se comigo:
+🎖️ Minhas badges
+<img src="URL_DA_IMAGEM" alt="Descrição" width="300" />
 
-Explore meus projetos, scripts e desafios em segurança.
-
-Me acompanhe no TryHackMe e PortSwigger para ver meu progresso real.
-
-Vamos trocar conhecimento e crescer juntos na comunidade hacker ética.
-
-✨ Frase que guia meus passos:
-
-“Hack the system, protect the future.”
