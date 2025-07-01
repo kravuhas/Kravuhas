@@ -15,3 +15,4 @@ color:#0000
 👨‍💻 Sobre mim
 Sou um entusiasta de cibersegurança e hacking ético com forte base em Linux, redes e pentest ofensivo. Meu foco é ajudar a tornar o mundo digital mais seguro, explorando sistemas de forma ética para encontrar e corrigir vulnerabilidades antes que sejam exploradas por criminosos.
 
+l
