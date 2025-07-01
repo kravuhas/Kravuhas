@@ -1,9 +1,9 @@
-# 👾 Felipe | Hacker Ético
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Felipe&center=true&vCenter=true&height=53&size=70&width=1050&color=28a0d1&font=Jersey+25&duration=3000)](https://github.com/henrygoncalvess)
 
----
+<h2 align=center>Segurança Cibernética & Pentest</h2>
 
-## Minha área: Segurança Cibernética & Pentest
+<h2 align=center>Tecnologias e Conhecimentos</h2>
 
-[![Watch my video](https://img.youtube.com/vi/ZN9AFHEO_-g/0.jpg)](https://youtu.be/ZN9AFHEO_-g?si=rm1GuWQt33_wxNxs)
-
-Clique na imagem para assistir ao meu vídeo!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=neovim,python,vim,c,cassandra,debian&perline=10" />
+</p>
