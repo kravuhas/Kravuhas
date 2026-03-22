@@ -19,7 +19,7 @@ Meu objetivo é <em>proteger sistemas, automatizar segurança e criar soluções
 ### 📜 Certificações e Experiência
 
 - 🎓 Google – Cybersecurity Professional Certificate  
-- 🐧 Santander Bootcamp – Linux Essentials  
+- 🐧 bug bounty p5 
 - 🧠 TryHackMe – Labs completados (Red Team / Blue Team)  
 - 🔓 Hack The Box – CTFs e labs realistas  
 - 🧪 PortSwigger Web Security – Web exploits OWASP  
