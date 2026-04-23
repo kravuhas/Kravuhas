@@ -35,7 +35,7 @@ felipe@parrot:~$ whoami --verbose
 > Foco        : Pentest ofensivo, OSINT, segurança web
 > Daily driver: Linux Parrot OS
 > Editor      : Neovim
-> Linguagens  : Python, Bash, C
+> Linguagens  : Python, Bash, C, C++, Assembly, JavaScript, TypeScript, Golang, SQL
 > Status      : aprendendo, quebrando e consertando_
 ```
 
@@ -85,9 +85,15 @@ felipe@parrot:~$ whoami --verbose
 Python      [████████████████████░░░] 82%
 Bash        [████████████████████░░░] 80%
 Linux       [█████████████████████░░] 88%
+C           [███████████░░░░░░░░░░░░] 45%
+C++         [██████████░░░░░░░░░░░░░] 42%
+Assembly    [████████░░░░░░░░░░░░░░░] 35%
+JavaScript  [█████████████░░░░░░░░░░] 55%
+TypeScript  [████████████░░░░░░░░░░░] 50%
+Golang      [█████████░░░░░░░░░░░░░░] 38%
+SQL         [██████████████░░░░░░░░░] 58%
 Web Pentest [████████████████░░░░░░░] 65%
 Redes/OSINT [██████████████████░░░░░] 72%
-C           [███████████░░░░░░░░░░░░] 45%
 ```
 
 ---
@@ -95,11 +101,17 @@ C           [███████████░░░░░░░░░░░�
 ## `$ nmap --tools -sV`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,neovim,vim,debian,c&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,c,cpp,assembly,js,ts,go,postgres,git,github,neovim,vim,debian&perline=8" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Parrot_OS-00ff41?style=for-the-badge&labelColor=0d0d0d&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/C++-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Assembly-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/JavaScript-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/TypeScript-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Golang-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/SQL-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Burp_Suite-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/Metasploit-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
