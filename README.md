@@ -1,118 +1,159 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Felipe;Cybersecurity+Specialist&center=true&vCenter=true&height=60&size=60&width=1000&color=00ff00&font=Jersey+25&duration=3000"/>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00de00,100:009900&height=80"/>
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&fontColor=00ff00&fontSize=28&desc=Hacking+é+conhecimento+com+propósito,+ética+e+responsabilidade.&descSize=20&descAlignY=70"/>
-</div>
+<!-- HEADER ANIMADO -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=KRAVUHAS;Segurança+Cibernética;Pentest+%7C+CTF+%7C+OSINT;FATEC+—+Redes+de+Computadores&center=true&vCenter=true&height=60&size=55&width=1050&color=00ff41&font=Share+Tech+Mono&duration=2500&pause=1000)](https://github.com/kravuhas)
 
----
-
-<h2 align="center">👨‍💻 Sobre mim</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:00aa00,100:00ff41&height=80&text=&animation=fadeIn"/>
 
 <p align="center">
-Sou um entusiasta de <strong>cibersegurança</strong> focado em <strong>hacking ético, redes e Linux</strong>.<br>
-Estudo diariamente <strong>vulnerabilidades, CTFs e técnicas de pentest ofensivo</strong>.<br>
-Meu objetivo é <em>identificar falhas críticas, proteger sistemas e desenvolver soluções inteligentes</em>.
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d0d0d&color=00ff41"/>
+  <img src="https://img.shields.io/badge/OS-Parrot_Linux-00ff41?style=flat-square&labelColor=0d0d0d&logo=linux&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/FATEC-Redes_de_Computadores-00ff41?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Bug_Bounty-P5-00ff41?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/ÉTICO-SEMPRE-00ff41?style=flat-square&labelColor=0d0d0d"/>
 </p>
 
 ---
 
-<h2 align="center">🎓 Formação</h2>
-
-<ul align="center">
-  <li>🎓 <strong>FATEC</strong> — Redes de Computadores</li>
-  <li>💻 <strong>Universidade Braz Cubas</strong> — Ciência da Computação</li>
-</ul>
-
----
-
-<h2 align="center">⚔️ Experiência em Segurança</h2>
-
-<ul align="center">
-  <li>🔍 Identificação de vulnerabilidades em aplicações web</li>
-  <li>⚠️ Descoberta de falhas de <strong>misconfiguration</strong> em ambientes reais</li>
-  <li>🧠 Análise de impacto e risco envolvendo possíveis exposições de dados</li>
-  <li>🛡️ Prática de <strong>responsible disclosure</strong></li>
-  <li>🧪 Testes em ambientes controlados (labs, CTFs e máquinas virtuais)</li>
-  <li>🐧 Utilização de ambientes como <strong>Parrot OS</strong> para simulação de ataques</li>
-</ul>
+```
+██╗  ██╗██████╗  █████╗ ██╗   ██╗██╗   ██╗██╗  ██╗ █████╗ ███████╗
+██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██║   ██║██║  ██║██╔══██╗██╔════╝
+█████╔╝ ██████╔╝███████║██║   ██║██║   ██║███████║███████║███████╗
+██╔═██╗ ██╔══██╗██╔══██║╚██╗ ██╔╝██║   ██║██╔══██║██╔══██║╚════██║
+██║  ██╗██║  ██║██║  ██║ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+> Hacking não é crime — é conhecimento com propósito, ética e responsabilidade.
+```
 
 ---
 
-<h2 align="center">📜 Certificações e Estudos</h2>
+## `$ whoami`
 
-<ul align="center">
-  <li>🎓 Google – Cybersecurity Professional Certificate</li>
-  <li>🐛 Bug Bounty Hunter (nível iniciante/intermediário)</li>
-  <li>🧠 TryHackMe – Red Team / Blue Team Labs</li>
-  <li>🔓 Hack The Box – CTFs e labs realistas</li>
-  <li>🧪 PortSwigger – OWASP Web Security</li>
-</ul>
+```bash
+felipe@parrot:~$ whoami --verbose
+
+> Nome        : Felipe
+> Curso       : Redes de Computadores — FATEC
+> Foco        : Pentest ofensivo, OSINT, segurança web
+> Daily driver: Linux Parrot OS
+> Editor      : Neovim
+> Linguagens  : Python, Bash, C
+> Status      : aprendendo, quebrando e consertando_
+```
 
 ---
 
-<h2 align="center">💻 Tecnologias & Ferramentas</h2>
+## `$ cat certificacoes.txt`
+
+```
+[+] Google Cybersecurity Professional Certificate .............. [CONCLUÍDO]
+[+] Bug Bounty P5 — reporte de vulnerabilidades em ambientes reais .. [ATIVO]
+[+] TryHackMe — Labs Red Team / Blue Team ...................... [EM CURSO]
+[+] Hack The Box — CTFs e máquinas realistas .................. [EM CURSO]
+[+] PortSwigger Web Security — exploits OWASP ................. [EM CURSO]
+[+] Scripts e ferramentas autorais em Python e Bash ........... [ONGOING]
+[!] Identificação e reporte responsável de misconfiguration
+    em ambiente corporativo (responsible disclosure) .......... [DISCLOSED]
+```
+
+---
+
+## `$ ls -la projects/`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,nmap,vim,neovim,debian,c&perline=10" />
-</p>
-
----
-
-<h2 align="center">🧪 Projetos</h2>
-
-<div align="center">
-  <a href="https://github.com/kravuhas/find_subdomain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kravuhas&repo=find_subdomain&title_color=00ff00&text_color=ffffff&border_color=00ff00&bg_color=111111"/>
+  <a href="https://github.com/kravuhas/byevirus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kravuhas&repo=byevirus&title_color=00ff41&text_color=ccffcc&border_color=00ff41&bg_color=0d0d0d&icon_color=00ff41&description_lines_count=3"/>
   </a>
-</div>
+  <a href="https://github.com/kravuhas/find_subdomain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kravuhas&repo=find_subdomain&title_color=00ff41&text_color=ccffcc&border_color=00ff41&bg_color=0d0d0d&icon_color=00ff41&description_lines_count=3"/>
+  </a>
+</p>
+
+### `byevirus` — antivírus autoral em Python
+
+```python
+# byevirus — detecção de malware desenvolvida do zero
+> Detecção por assinatura + análise heurística
+> Quarentena automatizada de arquivos suspeitos
+> Interface CLI com relatório de varredura
+> 100% Python — sem dependência de engines externas
+```
 
 ---
 
-<h2 align="center">📊 Estatísticas</h2>
+## `$ htop --skills`
+
+```
+Python      [████████████████████░░░] 82%
+Bash        [████████████████████░░░] 80%
+Linux       [█████████████████████░░] 88%
+Web Pentest [████████████████░░░░░░░] 65%
+Redes/OSINT [██████████████████░░░░░] 72%
+C           [███████████░░░░░░░░░░░░] 45%
+```
+
+---
+
+## `$ nmap --tools -sV`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kravuhas&border=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=000000"/>
-  <br><br>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kravuhas&show_icons=true&title_color=00FF00&text_color=ffffff&bg_color=000000&border_color=00FF00"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravuhas&layout=compact&title_color=00FF00&text_color=ffffff&bg_color=000000&border_color=00FF00"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,neovim,vim,debian,c&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Parrot_OS-00ff41?style=for-the-badge&labelColor=0d0d0d&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Nmap-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Metasploit-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/Wireshark-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/OWASP-00ff41?style=for-the-badge&labelColor=0d0d0d"/>
 </p>
 
 ---
 
-<h2 align="center">🧠 Plataformas</h2>
+## `$ ping plataformas`
+
+| Plataforma | Link | Status |
+|---|---|---|
+| 🧪 TryHackMe | [tryhackme.com/p/kravuhas](https://tryhackme.com) | `ATIVO` |
+| 🎯 Hack The Box | [hackthebox.com](https://app.hackthebox.com) | `ATIVO` |
+| 🧬 PortSwigger | [portswigger.net/web-security](https://portswigger.net/web-security) | `EM CURSO` |
+| 🐙 GitHub | [github.com/kravuhas](https://github.com/kravuhas) | `ONLINE` |
+
+---
+
+## `$ git log --stats`
 
 <p align="center">
-  🧪 TryHackMe • 🎯 Hack The Box • 🧬 PortSwigger • 🧑‍💻 GitHub
+  <img src="https://streak-stats.demolab.com?user=kravuhas&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=00FF41&ring=00FF41&fire=00AA00&sideNums=00FF41&currStreakNum=CCFFCC&currStreakLabel=00FF41&dates=00660033&background=0d0d0d"/>
+</p>
+
+<p align="center">
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=kravuhas&custom_title=Felipe+—+Github+Status&show=prs_merged&show_icons=true&locale=pt-br&title_color=00FF41&text_color=ccffcc&icon_color=00aa22&border_color=00FF41&bg_color=0d0d0d&line_height=28&number_format=long&rank_icon=github"/>
+  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravuhas&langs_count=6&title_color=00FF41&text_color=ccffcc&border_color=00FF41&bg_color=0d0d0d&locale=pt-br&card_width=320&layout=compact"/>
 </p>
 
 ---
 
-<h2 align="center">📫 Contato</h2>
+## `$ nc -zv contato`
 
 <p align="center">
   <a href="mailto:falipehbu97uj5656@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00ff00"/>
+    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d"/>
   </a>
   <a href="https://www.instagram.com/feli_peznx">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00ff00"/>
+    <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0d0d0d"/>
   </a>
   <a href="https://wa.me/5511955999025">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=00ff00"/>
+    <img src="https://img.shields.io/badge/WhatsApp-0d0d0d?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d0d0d"/>
+  </a>
+  <a href="https://github.com/kravuhas">
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🐍 Terminal Hacker</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00aa00,100:003300&height=80&section=footer"/>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1518773553398-650c184e0bb3?auto=format&fit=crop&w=800&q=80" width="500px"/>
+  <img src="https://komarev.com/ghpvc/?username=kravuhas&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00de00,100:009900&section=footer&height=80"/>
-</div>
