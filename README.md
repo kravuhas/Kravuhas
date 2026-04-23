@@ -33,7 +33,7 @@ felipe@parrot:~$ whoami --verbose
 > Nome        : Felipe
 > Curso       : Redes de Computadores — FATEC
 > Foco        : Pentest ofensivo, OSINT, segurança web
-> Daily driver: Linux Parrot OS
+> Daily driver: Linux Arch linux
 > Editor      : Neovim
 > Linguagens  : Python, Bash, C, C++, Assembly, JavaScript, TypeScript, Golang, SQL
 > Status      : aprendendo, quebrando e consertando_
