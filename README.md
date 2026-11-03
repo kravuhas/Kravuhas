@@ -1,236 +1,117 @@
-<!-- ☁ ★ KRAVUHAS.NET — best viewed in 800x600 ★ ☁ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a8f,35:1e5bff,70:7ad7ff,100:ff9ee6&height=190&text=%E2%98%85%20KRAVUHAS%20%E2%98%85&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%20~%20bem-vindo%20%C3%A0%20minha%20homepage%20~%20welcome%20to%20my%20homepage&descAlignY=58&descSize=17&animation=fadeIn"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kravuhas">
-    <img src="https://readme-typing-svg.demolab.com/?lines=%E2%98%85+KRAVUHAS+%E2%98%85;Seguran%C3%A7a+Cibern%C3%A9tica;Pentest+%7C+CTF+%7C+OSINT;FATEC+%E2%80%94+Redes+de+Computadores;HTB+CJCA+%2B+Cisco+CCST&center=true&vCenter=true&height=50&size=18&width=900&color=00E5FF&font=Press+Start+2P&duration=2500&pause=1000" alt="Typing SVG"/>
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kravuhas</sub></p>
+<h1>Felipe Pereira</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Sou analista de segurança ofensiva com foco em cibersegurança e hacking ético.
+Com experiência prática em ambientes Linux (Debian, Arch), redes, pentest e auto</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Gengar"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif" alt="Porygon"/>
-</p>
+<p><a href="https://github.com/kravuhas">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/208885911?u=982acb9fe2b40a313b6fce80f3fb2bec78e3f989&amp;v=4" width="180" alt="Felipe Pereira GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-```
- ┌──────────────────────────────────────────────────────┐
- │  Um KRAVUHAS selvagem apareceu!                      │
- │                                                      │
- │   ▶ LUTAR (CTF)        MOCHILA (kit de pentest)      │
- │     POKÉMON (meu time) FUGIR (não dá!)               │
- └──────────────────────────────────────────────────────┘
-```
+<h2>What teams can evaluate quickly</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE_24H-b6ff00?style=flat-square&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-00e5ff?style=flat-square&labelColor=0a1a8f&logo=archlinux&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/OS-Parrot_Linux-00e5ff?style=flat-square&labelColor=0a1a8f&logo=linux&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/FATEC-Redes_de_Computadores-ff4fd8?style=flat-square&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/HTB-CJCA-9fef00?style=flat-square&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Cisco-CCST-00bceb?style=flat-square&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/%C3%89TICO-SEMPRE-ffe100?style=flat-square&labelColor=0a1a8f"/>
-</p>
-
-```
- ☎  Discando para KRAVUHAS.NET ...
- ♪  tuuu-tuuu-bééééé-ksssshhhh-tchhhhhh-pim-pim ♪
-    Verificando nome de usuário e senha ...
-    Registrando seu computador na rede ...
- ✔  Conectado a 56.6 kbps            (não use o telefone!)
-```
-
-```
-██╗  ██╗██████╗  █████╗ ██╗   ██╗██╗   ██╗██╗  ██╗ █████╗ ███████╗
-██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██║   ██║██║  ██║██╔══██╗██╔════╝
-█████╔╝ ██████╔╝███████║██║   ██║██║   ██║███████║███████║███████╗
-██╔═██╗ ██╔══██╗██╔══██║╚██╗ ██╔╝██║   ██║██╔══██║██╔══██║╚════██║
-██║  ██╗██║  ██║██║  ██║ ╚████╔╝ ╚██████╔╝██║  ██║██║  ██║███████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-  ~ Hacking não é crime — é conhecimento com propósito, ética e responsabilidade ~
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%A7_UNDER_CONSTRUCTION-ffe100?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/BEST_VIEWED_IN-800x600-ff4fd8?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/NETSCAPE-NAVIGATOR_4.0-00e5ff?style=for-the-badge&labelColor=0a1a8f"/>
-</p>
-
----
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e5bff,100:00b8ff&height=42&text=%E2%98%85%20MSN%20MESSENGER%20%E2%98%85%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B&fontColor=ffffff&fontSize=20"/></p>
-
-```
-┌─ Felipe  (Online) ───────────────────────────────── [_][□][X]
-│
-│  ˜"*°•.˜"*°•  ★ f e l i p e ★  •°*"˜.•°*"˜
-│  ♫ ouvindo : [ruído de modem 56k]
-│  "aprendendo, quebrando e consertando ▌"
-│
-│  ★ Curso        : Redes de Computadores — FATEC
-│  ★ Certs        : HTB CJCA · Cisco CCST · Google Cyber
-│  ★ Foco         : Pentest ofensivo, OSINT, segurança web
-│  ★ Daily driver : Arch Linux  (labs de pentest: Parrot OS)
-│  ★ Editor       : Neovim
-│  ★ Linguagens   : Python, Bash, C, C++, Assembly,
-│                   JavaScript, TypeScript, Golang, SQL
-│
-└─ (1) contato online · ao vivo desde 2000 ─────────────
-```
-
----
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,100:7a5cff&height=42&text=%E2%98%85%20CART%C3%83O%20DE%20TREINADOR%20%E2%98%85&fontColor=ffffff&fontSize=20"/></p>
-
-```
-┌─ TRAINER CARD ────────────────────────────────────────
-│  NOME ....... FELIPE            ID Nº ... FATEC-REDES
-│  CLASSE ..... Treinador de Segurança Cibernética
-│  TEMPO ...... 24:00+ (madrugadas de CTF)
-│  POKÉDEX .... vulnerabilidades encontradas: ???
-└───────────────────────────────────────────────────────
-```
-
-### 🏅 Insígnias & cursos
-
-| Insígnia | Curso / Certificação | Emissor | Status |
-|:-:|---|---|:-:|
-| 🎓 | **Redes de Computadores** (graduação tecnológica) | FATEC | `CURSANDO` |
-| 🟩 | **CJCA** — Certified Junior Cybersecurity Associate | Hack The Box | `EM TREINO` |
-| 🟦 | **CCST Cybersecurity** — Cisco Certified Support Technician | Cisco | `EM TREINO` |
-| 🔍 | **Google Cybersecurity Professional Certificate** | Google | `CONQUISTADA ✔` |
-| 🐞 | **Bug Bounty P5** — reporte de vulnerabilidades em ambientes reais | — | `ATIVO` |
-| 🧪 | **TryHackMe** — labs Red Team / Blue Team | TryHackMe | `EM TREINO` |
-| 🎯 | **Hack The Box** — CTFs e máquinas realistas | Hack The Box | `EM TREINO` |
-| 🕷️ | **PortSwigger Web Security** — exploits OWASP | PortSwigger | `EM TREINO` |
-| 🛠️ | Scripts e ferramentas autorais em Python e Bash | — | `ONGOING` |
-| 🔐 | Reporte responsável de misconfiguration em ambiente corporativo (*responsible disclosure*) | — | `DISCLOSED` |
-
----
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e5bff,100:00b8ff&height=42&text=%E2%98%85%20MEU%20TIME%20%E2%98%85%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3&fontColor=ffffff&fontSize=20"/></p>
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif"/><br><b>GENGAR</b><br><sub>Web Pentest</sub><br><code>Lv.65</code></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif"/><br><b>PORYGON</b><br><sub>Python</sub><br><code>Lv.82</code></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif"/><br><b>MAGNEMITE</b><br><sub>Redes / OSINT</sub><br><code>Lv.72</code></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif"/><br><b>UMBREON</b><br><sub>Linux</sub><br><code>Lv.88</code></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif"/><br><b>ALAKAZAM</b><br><sub>Bash</sub><br><code>Lv.80</code></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif"/><br><b>DITTO</b><br><sub>JavaScript / TypeScript</sub><br><code>Lv.55</code></td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · Java</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>124 contributions · 29 active days</p></td>
+</tr>
 </table>
 
-```
- ╔═ PC DO BILL — CAIXA 1 (treinando) ═════════════════════
- ║  C           Lv.45  [█████████░░░░░░░░░░░]
- ║  C++         Lv.42  [████████░░░░░░░░░░░░]
- ║  Assembly    Lv.35  [███████░░░░░░░░░░░░░]
- ║  Golang      Lv.38  [████████░░░░░░░░░░░░]
- ║  SQL         Lv.58  [████████████░░░░░░░░]
- ╚════════════════════════════════════════════════════════
-```
+<p><sub>Sou analista de segurança ofensiva com foco em cibersegurança e hacking ético.
+Com experiência prática em ambientes Linux (Debian, Arch), redes, pentest e auto</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,100:7a5cff&height=42&text=%E2%98%85%20MEUS%20DOCUMENTOS%20%E2%98%85&fontColor=ffffff&fontSize=20"/></p>
-
-```
-┌─ Meus Documentos ─────────────────────────────────── [_][□][X]
-│  📁 byevirus              antivírus autoral em Python
-│  📁 find_subdomain        enumeração de subdomínios
-│  📁 agente-rag-de-receita agente RAG de receitas
-│  📁 análise-telemarketing análise de vulnerabilidade em ambiente real
-└───────────────────────────────────────────────────────────────────
-```
-
-| Pasta | Repositório |
-|:-:|---|
-| 🛡️ | [**byevirus**](https://github.com/kravuhas/byevirus) — detecção por assinatura + heurística, quarentena automatizada, CLI com relatório de varredura, 100% Python |
-| 🔎 | [**find_subdomain**](https://github.com/kravuhas/find_subdomain) |
-| 🤖 | [**agente-rag-de-receita**](https://github.com/kravuhas/agente-rag-de-receita) |
-| 📞 | [**Análise de Vulnerabilidade em Ambiente de Telemarketing**](https://github.com/kravuhas/-An-lise-de-Vulnerabilidade-em-Ambiente-de-Telemarketing) |
-
----
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e5bff,100:00b8ff&height=42&text=%E2%98%85%20MOCHILA%20%E2%98%85%20%E3%83%84%E3%83%BC%E3%83%AB&fontColor=ffffff&fontSize=20"/></p>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>124</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,c,cpp,assembly,js,ts,go,postgres,git,github,neovim,vim,arch&perline=8" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Felipe Pereira GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&repos=kravuhas%2FMaiworm%2Ckravuhas%2FAegisScan%2Ckravuhas%2FCatline-Shell%2Ckravuhas%2Fyokai-linux&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&repos=kravuhas%2FMaiworm%2Ckravuhas%2FAegisScan%2Ckravuhas%2FCatline-Shell%2Ckravuhas%2Fyokai-linux&v=recruiter-projects-1&mode=dark" width="100%" alt="Felipe Pereira selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/kravuhas/Maiworm">Maiworm</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/kravuhas/Maiworm">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/kravuhas/AegisScan">AegisScan</a></h3><p>e uma ferramenta hacker para achar falhas nos sites</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kravuhas/Catline-Shell">Catline-Shell</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/kravuhas/yokai-linux">yokai-linux</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 4</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Parrot_OS-00e5ff?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Nmap-ff4fd8?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-ffe100?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Metasploit-00e5ff?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Wireshark-ff4fd8?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/OWASP-ffe100?style=for-the-badge&labelColor=0a1a8f"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00bceb?style=for-the-badge&labelColor=0a1a8f"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Felipe Pereira technology stack" />
+</picture>
 </p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>66% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>Rust</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff4fd8,100:7a5cff&height=42&text=%E2%98%85%20LINKS%20FAVORITOS%20%E2%98%85&fontColor=ffffff&fontSize=20"/></p>
-
-| ★ Plataforma | Link | Status |
-|---|---|:-:|
-| 🧪 TryHackMe | [tryhackme.com/p/kravuhas](https://tryhackme.com) | `ATIVO` |
-| 🎯 Hack The Box | [hackthebox.com](https://app.hackthebox.com) | `ATIVO` |
-| 🧬 PortSwigger | [portswigger.net/web-security](https://portswigger.net/web-security) | `EM CURSO` |
-| 🐙 GitHub | [github.com/kravuhas](https://github.com/kravuhas) | `ONLINE` |
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kravuhas&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=815&border=00e5ff&ring=ff4fd8&fire=ff4fd8&sideNums=00e5ff&currStreakNum=ffffff&currStreakLabel=00e5ff&sideLabels=b9c6ff&dates=8ea0ff&background=0a0f2e"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kravuhas&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F208885911%3Fu%3D982acb9fe2b40a313b6fce80f3fb2bec78e3f989%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Felipe Pereira contribution activity" />
+</picture>
 </p>
 
----
+<hr />
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e5bff,100:00b8ff&height=42&text=%E2%98%85%20ADICIONE%20NO%20MSN%20%E2%98%85%20%E9%80%A3%E7%B5%A1%E5%85%88&fontColor=ffffff&fontSize=20"/></p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kravuhas">GitHub</a></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="mailto:falipehbu97uj5656@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff4fd8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1a8f"/>
-  </a>
-  <a href="https://www.instagram.com/feli_peznx">
-    <img src="https://img.shields.io/badge/Instagram-00e5ff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a1a8f"/>
-  </a>
-  <a href="https://wa.me/5511955999025">
-    <img src="https://img.shields.io/badge/WhatsApp-b6ff00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a1a8f"/>
-  </a>
-  <a href="https://github.com/kravuhas">
-    <img src="https://img.shields.io/badge/GitHub-ffe100?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1a8f"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>★ Recados (0) ★</b><br>
-  <i>seja o primeiro a deixar um scrap! · sign my guestbook</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kravuhas&color=00e5ff&style=for-the-badge&label=VISITANTE+N%C2%BA"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"/>
-</p>
-
-```
- ┌───────────────────────────────────────────────────────────────┐
- │ ▶ Iniciar │ 💬 MSN │ 🛡 byevirus.exe │ 🌐 Internet     🔊 23:59 │
- └───────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <sub>© 2000–2026 KRAVUHAS · todos os direitos reservados · powered by 📱 Nokia 3660 · <b>Connecting People</b><br>
-  Pokémon e seus personagens pertencem à Nintendo / Game Freak / The Pokémon Company — sprites via PokeAPI.</sub>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ddc4a,50:5cd63b,100:2e9e1f&height=100&section=footer"/>
+<p align="center"><sub>Felipe Pereira · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
